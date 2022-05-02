@@ -42,7 +42,7 @@ security -> se kyu ri ti -> ritisekyu
 For monosyllabic words, we fall into two categories, those that end in a consonant, and those that don't.
 
 ### End in Consonant
-(CVC, VC Words (where C = consonant, V = vowel)_)
+(CVC, VC Words (where C = consonant, V = vowel))
 
 For those that end in a consonant, we add a vowel to the end to make it a **two** syllable word, and then switch the two syllables as is usual.
 
@@ -78,9 +78,11 @@ I could have used "u" for everything, regardless of which consonant it is, but i
 
 For monosyllabic words that end in a vowel, you switch the consonant or consonant blend in the beginning with the vowel at the end.
 
-to -> tu -> ut
+to -> t u -> ut
 
-lie -> lai -> ail
+lie -> l ai -> ail
+
+the -> dh a -> adh
 
 If the consonant or consonant blend is unpronounceable once moved to the end, you add an "e" to the end.
 
