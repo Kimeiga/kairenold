@@ -1,6 +1,19 @@
 # Kairen
 The secret language you already know. 
 
+**TLDR**
+1. Multisyllable:
+
+    a. Put right half in front of left half, right half always 1 more syllable in odd number syllable words
+        i. explore -> eks plor -> ploreks
+        
+        ii. avalon -> a va lan -> valana
+        
+        iii. veronica -> ve ro ni ka -> nikavero
+    
+    b. 
+
+
 Words are created from English, and there is an easy rule for multisyllabic words, and an easy rule for monosyllabic words.
 
 ## 2+ Syllable Words
