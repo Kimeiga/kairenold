@@ -232,15 +232,16 @@ We make some grammar changes to make it easier to speak. This constitutes either
         4. --
         5. Do you have a pen?
         6. Ud ku vuha a nepe?
-        7. Ud ku vuha nepe? (Ku vuha nepe ne? (#3))
-    2. "To" is not required if the verb only has 1 object argument.
-        1. I am going to the store
-        2. Ki ma inggo ut adh resto
-        3. Ki ma inggo resto (I am going store)
-    4. Drop "is"/"are"/"am" (copula dropping)
+        7. Ud ku vuha nepe? (Ku vuha nepe ne? (ne = yes/no))
+    2. Drop "is"/"are"/"am" (copula dropping)
         1. You are too loud
         2. Ku ra ut dolau
         3. Ku ut dolau
+    3. "To" is not required if the verb only has 1 object argument.
+        1. I am going to the store
+        2. Ki ma inggo ut adh resto
+        3. Ki ma inggo resto (I am going store)
+
 2. Verbs are implied present continuous tense
     1. I am going to the store
     2. Ki ma inggo resto
