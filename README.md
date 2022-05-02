@@ -182,11 +182,17 @@ Some words are unaffected by the algorithm because they are only vowels, or thei
 
 Let's be honest, this language is mostly useful for shittalking people without them noticing, so you might as well prioritize learning some of that.
 
+1
+
 - That bitch is very rude.
 - **Totha chobi zi rive doru.**
 
+2
+
 - He looks like a pig.
 - **Ihe kuluz kolai gopi.**
+
+3
 
 - Smack that hoe.
 - **Kosma totha ohe.**
