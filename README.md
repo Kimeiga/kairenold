@@ -155,36 +155,41 @@ Some words are unaffected by the algorithm because they are only vowels, or thei
 
 ## Example Sentences
 
-- How are you?
-- Auhe ra ku?
-- I'm good, how are you?
-- Mai dogu, auhe ra ku?
-- I'm fine, just a little sleepy.
-- Mai nefai, tojas telli pisli.
+1
 
+- How are you?
+- **Auhe ra ku?**
+- I'm good, how are you?
+- **Mai dogu, auhe ra ku?**
+- I'm fine, just a little sleepy.
+- **Mai nefai, tojas telli pisli.**
+
+2
 
 - I have so much work.
-- Ki vuha os chomu kowor.
+- **Ki vuha os chomu kowor.**
 - Then why don't you come get coffee with me?
-- Nuthe aiwe todon ku muka toge feka thuwi im?
+- **Nuthe aiwe todon ku muka toge feka thuwi im?**
 - Ok sounds good!
-- Ko dosaunz dogu!
+- **Ko dosaunz dogu!**
+
+3
 
 - Thanks for everything.
-- Kotheinz refo rithingeve.
+- **Kotheinz refo rithingeve.**
 - You're welcome.
-- Reyu kamwel.
+- **Reyu kamwel.**
 
 Let's be honest, this language is mostly useful for shittalking people without them noticing, so you might as well prioritize learning some of that.
 
 - That bitch is very rude.
-- Totha chobi zi rive doru.
+- **Totha chobi zi rive doru.**
 
 - He looks like a pig.
-- Ihe kuluz kolai gopi.
+- **Ihe kuluz kolai gopi.**
 
 - Smack that hoe.
-- Kosma totha ohe.
+- **Kosma totha ohe.**
 
 
 
