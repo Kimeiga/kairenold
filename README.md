@@ -77,7 +77,7 @@ Suppose we did the opposite of this and said that the left half takes the extra 
 Because the root word stays together, the resulting transformed word sounds a lot like it used to. For this reason we have the right half take the extra syllable in the middle (1/2).
 
 - beautiful -> byu ti fal -> tifalbyu
-- government -> ga vern ment -> vernmentga
+- government -> ga vern ment -> vernmentga -> vernmenga (smoothing out)
 
 For 4 syllable words, the split is just 2/2 as is usual for any even-number-of-syllables word.
 
@@ -222,7 +222,9 @@ Technically optional, but improves the language quite a bit.
 
 ## Grammar
 
-We make some grammar changes to make it easier to speak. This constitutes either making sentences shorter, or making it easy to turn a sentence into a question without reordering, etc.
+The following grammar changes are optional ones that make it easier to speak Kairen, and turn it from just an English cypher into a full language. If you are speaking without these grammar changes, we call that "half Kairen", and with these grammar changes, "full Kairen".
+
+This constitutes either making sentences shorter, or making it easy to turn a sentence into a question without reordering, etc.
 
 1. Remove all useless-ish words
     1. Articles not required, "the"/"a" not required
@@ -260,6 +262,36 @@ We make some grammar changes to make it easier to speak. This constitutes either
     5. Go with me
     6. Go with I
     7. Og thuwi ki
-7. 
+5. "Ya" can be added after a verb for past tense
+    1. old:
+    2. established -> es ta blishd -> tablishdes
+    3. new:
+    4. established -> es ta blish + -ed -> tablishes ya
+    5. This way, the past tense is not indicated by a small consonant in the word, but by a recognizable ending.
+    6. --
+    7. old:
+    8. Did you just kill it or has it been killed for a while?
+    9. Dodi ku tojas leki ti ro suha ti nebi dokil refo lewai?
+    10. or
+    11. You just kill it or it killed for while ne?
+    12. Ku tojas leki ti ro ti dokil refo lewai ne?
+    13. new:
+    14. You just kill it or it killed for while ne?
+    15. Ku tojas leki ti ro ti leki ya refo lewai ne?
+    16. This way, once you learn "leki" is kill, you can just add "ya" to make "leki ya" (killed), instead of having to take "killed" and translate that into "dokil" which doesn't obfuscate the root verb either.
+6. Future tense can be indicated by spoken time.
+    1. If you want to say "I will go to the office tomorrow", you can say "I go office tomorrow", since future is indicated by a time in the future.
+    2. However, if you want future tense but don't have a time, you can use "will": "I will do work".
+        1. old:
+        2. I will go to the office tomorrow.
+        3. Ki lewi og ut adh fisa maruto.
+        4. new:
+        5. Ki og fisa maruto.
+7. Plural -s is extracted
+    1. moment -> mo ment -> mentmo
+    2. moments -> mo ment s -> mentmos (as opposed to mentsmo)
+    3. This makes it easier to signify plural
+    
 
-
+If you have any comments/questions/suggestions, please make an issue and thank you for reading!
+Fi ku vuha nia menkas/cankwests/gestcansas, supli komei cyui doan koqen ku refo dori!
