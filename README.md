@@ -1,114 +1,99 @@
 # Kairen
 The secret language you already know. 
 
-Words are formed by switching syllable 1 with syllable 2, syllable 3 with syllable 4, and so on. If the word is 1 syllable long, then the consonants in the front switch with the consonants in the back. To make it easier to speak, useless words are removed and small changes to grammar are made. In the full version, small changes to letter sounds are made.
+Words are created from English, and there is an easy rule for multisyllabic words, and an easy rule for monosyllabic words.
 
-Example sentence 1:
+## 2+ Syllable Words
 
-E: I am going to the store.
-K: Ki ma inggo ut adh orst.
+### Even Number Syllables
 
-or simply:
+Words are created by taking the right half of syllables and putting them in front of the left half of syllables. This is done with the transliteration of the word; a.k.a. the phonetic inscription of the word.
 
-K: Ki og orst.
+respect -> ri spekt -> spektri
+commit -> ka mit -> mitka
+request -> re kwest -> kwestre
 
-Example sentence 2:
+### Odd Number Syllables
 
-E: He is so rude and annoying!
-K: Ih zi os dur inda noiaing!
+Crucially, if the word has an odd number of syllables, the right half takes the extra syllable in the middle (split 1/2). This is because many suffixes in English are one syllable long.
 
-or simply:
+Suppose we did the opposite of this and said that the left half takes the extra syllable in the middle (2/1). 
 
-K: Ih os dur noiaing!
+beautiful -> byu ti fal -> falbyuti
+government -> ga vern ment -> mentgavern
 
-## Words
+Because the root word stays together, the resulting transformed word sounds a lot like it used to. For this reason we have the right half take the extra syllable in the middle (1/2).
 
-Words are created by taking English words, transliterating them, and then applying the following cypher to them. Transliterating is writing the English word how it is pronounced, this step is important because many English words are written differently to how they are pronounced (through -> thru).
+beautiful -> byu ti fal -> tifalbyu
+government -> ga vern ment -> vernmentga
 
-1. If the word is one syllable long, switch the consonant or consonant blend in the beginning with the consonant or consonant blend in the end. We keep the central vowel or diphthong (vowel blend) together. There is an exception to the consonant switching known as the *sticky rule* that makes it easier to do this transformation in your head. 
-  a. Examples:
-      i. cat -> kat -> tak
-      ii. pot -> top
-      iii. stem -> mest (consonant blend retains order, don't reverse the order of letters)
-      iv. witch -> wich -> chiw
+For 4 syllable words, the split is just 2/2 as is usual for any even-number-of-syllables word.
 
-2. If the word is two or more syllables long, we switch syllable 1 with syllable 2, syllable 3 with syllable 4, and so on for however many syllables are in the word. If there is an odd number of syllables, such as in a three syllable word, you just leave the last syllable alone.
-  a. Examples:
-    i. seven -> vense
-    ii. formula -> formyula -> myuforla
-    iii. monopoly -> monapoli -> namolipo
-    iv. action -> akshan -> shanak
-    v. measure -> mezher -> zherme ("r" sticks to "e" because it's part of the vowel sound (sticky rule), will be explained later)
+monopoly -> ma na po li -> polimana
+security -> se kyu ri ti -> ritisekyu
 
-3. If the transformation results in an unpronounceable consonant cluster or an unpronounceable consonant in the beginning of a word (initial position) or in the end of a word (final position), we add a vowel to make it pronounceable. The rules are as follows.
-  a. If the unpronouceable consonant(s) are in the initial position, we add an "i" to the beginning of the word
-    i. and -> nda -> inda
-    ii. imp -> mpi -> impi
-    
-  b. If the unpronouceable consonant(s) are in the final position, we add a "u" to the end of the word
-    i. horse -> hors -> sorh -> sorhu ("r" sticks to "o" because it's part of the vowel sound (sticky rule))
-    ii. work -> werk -> kerw -> kerwu (sticky rule)
-  
-  c. If the unpronouncable consonant cluster is inside the word (due to syllables shifting around), add an "i" to make it pronounceable.
-    i. project -> projekt -> jektpro -> jektipro
+## 1 Syllable Words
 
-### Sticky Rule
-If I told you the rule was to switch the beginning consonants with the ending consonants of a word, and I gave you "street" (strit), your answer might be "trist". 
-If I gave you "sweet" (swit), you would say "twis".
-If I gave you "clear" (klir), you would say "lirk".
-If I gave you "cute" (kyut), you would say "tyuk".
-If I gave you "car" (kar), you would say "ark".
+For monosyllabic words, we fall into two categories, those that end in a consonant, and those that don't.
 
-Why is this? Technically we should be moving the "r", "l", "y", and "w" as well! Technically, "street" -> "tistr", "sweet" -> "tisw", "clear" -> "rikl", "cute" -> "tuky", "car" -> "rak".
+### End in Consonant
+(CVC, VC Words (where C = consonant, V = vowel)_)
 
-But this is not how our minds work, and also these words don't sound that great. We perceive "r", "l", "y", and "w" to be part of the vowel, and so it make sense to have a rule where we don't move these letter when they are effectively part of the vowel cluster. (The reason this happens is probably because in English, we have a retroflexive "r" and a dark "l" which both bleed into the vowel. "Y" and "w" are probably because they are technically semi-vowels). 
+For those that end in a consonant, we add a vowel to the end to make it a **two** syllable word, and then switch the two syllables as is usual.
 
-So, with the sticky rule, the more intuitive reversals become correct. 
-1. street -> strit -> trist
-2. clear -> klir -> lirk   -> rikl
-3. cute -> kyut -> tyuk
-4. car -> kar -> ark
-5. calm -> kalm -> malk
-6. helm -> melh -> melhu
+gas -> ga su -> suga
+smith -> smi thu -> thusmi
 
-Of course this only applies to single-syllable words; polysyllablic words are still transformed normally.
-1. reverse -> revers -> versre
-2. linear -> liniar -> niliar
-3. security -> sekyuriti -> kyusetiri
+The vowel depends on which consonant is the final consonant.
 
-There is an exception to the sticky rule; that is, when the r/l/y/w is an initial consonant outside of a blend (by itself).
-1. rain -> rein -> neir
-2. lane -> lein -> neil
-3. yell -> yel -> ely -> elyu       -> lye
+1. For final plosive consonants, use "o". These consonants are k, g, p, b, t, d, ch, j (counting affricates here)
+    a. ko, go, po, bo, to, do, cho, jo
+    b. bike -> bai ko -> kobai
+    c. bitch -> bi cho -> chobi
+    d. dot -> da to -> toda
+    e. cat -> ka to -> toka
+2. For final fricative consonants, use "u". These consonants are s, z, f, v, sh, zh, h, unvoiced th, voiced th (here we use "dh").
+    a. su, zu, fu, vu, shu, zhu, hu, thu, dhu
+    b. barf -> bar fu -> fubar
+    c. trash -> tra shu -> shutra
+    d. have -> ha vu -> vuha
+    e. math -> ma thu -> thuma
+3. For final resonating consonants, use "e". These consonants are r, l, m, n.
+    a. re, le, me, ne
+    b. car -> ka re -> reka
+    c. bell -> be le -> lebe
+    d. dam -> da me -> meda
+    e. can -> ka ne -> neka
 
-This is because, in these cases, the r/l/y/w
+I could have used "u" for everything, regardless of which consonant it is, but it resulted it way too many "u"s around everywhere. So I made it depend on which consonant it is so that there are more vowels in use. However, technically speaking, using "u" with everything would still work.
 
+### End in Vowel
+(CV, CCV Words)
 
+For monosyllabic words that end in a vowel, you switch the consonant or consonant blend in the beginning with the vowel at the end.
 
-crash -> krash -> shrak
-rash -> shar
+to -> tu -> ut
+lie -> lai -> ail
 
+If the consonant or consonant blend is unpronounceable once moved to the end, you add an "e" to the end.
 
-chink -> nkchi -> inkchi
-      -> nkich -> inkich
+blue -> blu -> ubl -> uble
+draw -> dra -> adr -> adre
+how -> hau -> auh -> auhe
 
-C1 V C2 --> C2 V C1
-        --> C2 C1 V
+### Exceptions
+#### VC Words
+To keep some commonly used words short, if the word is a vowel/diphthong (vowel blend) and then a single consonant sound, you just switch the two
 
-How are you doing today?
+on -> a n -> na (as opposed to a ne -> nea)
+ate -> ei t -> tei (as opposed to ei to -> toei)
+in -> i n -> ni (as opposed to i ne -> nei)
 
-Hau ar yu duing tudei?
+#### Set Words
+Some words are unaffected by the algorithm because they are only vowels, or their resultant word doesn't sound super nice. We make a set vocabulary word for these.
 
-Auh ra uy ingdu deitu
-
-What street is the restaurant on?
-
-Wat strit iz dha restrant an?
-
-Twa itstr zi adh rantrest na?
-
-resterant
-terresant
-
-
+I (ai) = Ki
+You (yu -> uy) = Ku
+We (we -> iw) = Ke
+Eye (ai) = Ao
 
