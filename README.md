@@ -53,10 +53,15 @@ smith -> smi thu -> thusmi
 The vowel depends on which consonant is the final consonant.
 
 1. For final plosive consonants, use "o". These consonants are k, g, p, b, t, d, ch, j (counting affricates here)
+    
     a. ko, go, po, bo, to, do, cho, jo
+    
     b. bike -> bai ko -> kobai
+    
     c. bitch -> bi cho -> chobi
+    
     d. dot -> da to -> toda
+    
     e. cat -> ka to -> toka
 2. For final fricative consonants, use "u". These consonants are s, z, f, v, sh, zh, h, unvoiced th, voiced th (here we use "dh").
     a. su, zu, fu, vu, shu, zhu, hu, thu, dhu
