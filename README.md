@@ -6,11 +6,11 @@ The secret language you already know.
 
     a. Put right half in front of left half, right half always 1 more syllable in odd number syllable words
   
-      i. explore -> eks plor -> ploreks
+        i. explore -> eks plor -> ploreks
         
-      ii. avalon -> a va lan -> valana
+        ii. avalon -> a va lan -> valana
         
-      iii. veronica -> ve ro ni ka -> nikavero
+        iii. veronica -> ve ro ni ka -> nikavero
     
   b. 
 
