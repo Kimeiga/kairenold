@@ -258,7 +258,7 @@ This constitutes either making sentences shorter, or making it easy to turn a se
     - I hate him
     - I hate he
     - Ki tohei ihe
-    - --
+    - -
     - Go with me
     - Go with I
     - Og thuwi ki
@@ -268,7 +268,7 @@ This constitutes either making sentences shorter, or making it easy to turn a se
     - new:
         - established -> es ta blish + -ed -> tablishes ya
     - This way, the past tense is not indicated by a small consonant in the word, but by a recognizable ending.
-    - --
+    - -
     - old:
         - Did you just kill it or has it been killed for a while?
         - Dodi ku tojas leki ti ro suha ti nebi dokil refo lewai?
