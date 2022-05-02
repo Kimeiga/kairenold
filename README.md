@@ -198,4 +198,67 @@ Let's be honest, this language is mostly useful for shittalking people without t
 - **Kosma totha ohe.**
 
 
+## Orthography
+
+To make this complete Kairen, you can spell the words with the Kairen orthography, which is English but with some changes.
+
+- c = /sh/
+    - tc = /ch/ (because /ch/ = /t/ + /sh/)
+- j = /zh/
+    - dj = /j/ (because /j/ = /d/ + /zh/)
+- x = /ng/
+- q = /th/ (both voiceless and voiced)
+
+This removes all digraphs from the language, a.k.a. one consonant = one consonant sound, no more two consonants mapping to one sound.
+
+- smith -> smi qu -> qusmi
+- this -> qi su -> suqi
+- language -> leix gwidj -> gwidjleix
+- measure -> me jer -> jerme
+- choose -> tcu zu -> zutcu
+- shelf -> cel fu -> fucel
+
+Technically optional, but improves the language quite a bit.
+
+## Grammar
+
+We make some grammar changes to make it easier to speak. This constitutes either making sentences shorter, or making it easy to turn a sentence into a question without reordering, etc.
+
+1. Remove all useless-ish words
+    1. Articles not required, "the"/"a" not required
+        1. Pet the dog
+        2. Tope adh goda
+        3. Tope goda (Pet dog)
+        4. --
+        5. Do you have a pen?
+        6. Ud ku vuha a nepe?
+        7. Ud ku vuha nepe? (Ku vuha nepe ne? (#3))
+    2. "To" is not required if the verb only has 1 object argument.
+        1. I am going to the store
+        2. Ki ma inggo ut adh resto
+        3. Ki ma inggo resto (I am going store)
+    4. Drop "is"/"are"/"am" (copula dropping)
+        1. You are too loud
+        2. Ku ra ut dolau
+        3. Ku ut dolau
+2. Verbs are implied present continuous tense
+    1. I am going to the store
+    2. Ki ma inggo resto
+    3. Ki og resto (I go store)
+3. Add "ne" to end of sentence to indicate yes/no question
+    1. Do you want to go with me to the movie?
+    2. Ud ku towan ut og thuwi im ut adh vimu?
+    3. versus
+    4. You want go with me movie ne?
+    5. Ku towan og thuwi im vimu ne? (Ku towan og thuwi **ki** vimu ne?)
+4. Can use subject personal pronoun in object case.
+    1. I hate him
+    2. I hate he
+    3. Ki tohei ihe
+    4. --
+    5. Go with me
+    6. Go with I
+    7. Og thuwi ki
+7. 
+
 
