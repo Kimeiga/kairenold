@@ -40,16 +40,16 @@ The secret language you already know.
             1. blue -> blu -> ubl -> uble
             2. draw -> dra -> adr -> adre
             3. how -> hau -> auh -> auhe
-    3. VC Words
-        1. If the word is a vowel/diphthong (vowel blend) and then a single consonant sound, you just switch the two.
-            1. on -> a n -> na (as opposed to a ne -> nea)
-            2. ate -> ei t -> tei (as opposed to ei to -> toei)
-            3. in -> i n -> ni (as opposed to i ne -> nei)
-    4. Set Words
-        1. I (ai) = Ki
-        2. You (yu -> uy) = Ku
-        3. We (we -> iw) = Ke
-        4. Eye (ai) = Ao
+3. VC Words
+    1. If the word is a vowel/diphthong (vowel blend) and then a single consonant sound, you just switch the two.
+        1. on -> a n -> na (as opposed to a ne -> nea)
+        2. ate -> ei t -> tei (as opposed to ei to -> toei)
+        3. in -> i n -> ni (as opposed to i ne -> nei)
+4. Set Words
+    1. I (ai) = Ki
+    2. You (yu -> uy) = Ku
+    3. We (we -> iw) = Ke
+    4. Eye (ai) = Ao
 
 
 
