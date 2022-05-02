@@ -10,7 +10,9 @@ Words are created from English, and there is an easy rule for multisyllabic word
 Words are created by taking the right half of syllables and putting them in front of the left half of syllables. This is done with the transliteration of the word; a.k.a. the phonetic inscription of the word.
 
 respect -> ri spekt -> spektri
+
 commit -> ka mit -> mitka
+
 request -> re kwest -> kwestre
 
 ### Odd Number Syllables
@@ -20,16 +22,19 @@ Crucially, if the word has an odd number of syllables, the right half takes the 
 Suppose we did the opposite of this and said that the left half takes the extra syllable in the middle (2/1). 
 
 beautiful -> byu ti fal -> falbyuti
+
 government -> ga vern ment -> mentgavern
 
 Because the root word stays together, the resulting transformed word sounds a lot like it used to. For this reason we have the right half take the extra syllable in the middle (1/2).
 
 beautiful -> byu ti fal -> tifalbyu
+
 government -> ga vern ment -> vernmentga
 
 For 4 syllable words, the split is just 2/2 as is usual for any even-number-of-syllables word.
 
 monopoly -> ma na po li -> polimana
+
 security -> se kyu ri ti -> ritisekyu
 
 ## 1 Syllable Words
@@ -42,6 +47,7 @@ For monosyllabic words, we fall into two categories, those that end in a consona
 For those that end in a consonant, we add a vowel to the end to make it a **two** syllable word, and then switch the two syllables as is usual.
 
 gas -> ga su -> suga
+
 smith -> smi thu -> thusmi
 
 The vowel depends on which consonant is the final consonant.
@@ -73,12 +79,15 @@ I could have used "u" for everything, regardless of which consonant it is, but i
 For monosyllabic words that end in a vowel, you switch the consonant or consonant blend in the beginning with the vowel at the end.
 
 to -> tu -> ut
+
 lie -> lai -> ail
 
 If the consonant or consonant blend is unpronounceable once moved to the end, you add an "e" to the end.
 
 blue -> blu -> ubl -> uble
+
 draw -> dra -> adr -> adre
+
 how -> hau -> auh -> auhe
 
 ### Exceptions
@@ -86,14 +95,19 @@ how -> hau -> auh -> auhe
 To keep some commonly used words short, if the word is a vowel/diphthong (vowel blend) and then a single consonant sound, you just switch the two
 
 on -> a n -> na (as opposed to a ne -> nea)
+
 ate -> ei t -> tei (as opposed to ei to -> toei)
+
 in -> i n -> ni (as opposed to i ne -> nei)
 
 #### Set Words
 Some words are unaffected by the algorithm because they are only vowels, or their resultant word doesn't sound super nice. We make a set vocabulary word for these.
 
 I (ai) = Ki
+
 You (yu -> uy) = Ku
+
 We (we -> iw) = Ke
+
 Eye (ai) = Ao
 
