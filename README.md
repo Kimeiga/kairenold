@@ -64,16 +64,27 @@ The vowel depends on which consonant is the final consonant.
     
     e. cat -> ka to -> toka
 2. For final fricative consonants, use "u". These consonants are s, z, f, v, sh, zh, h, unvoiced th, voiced th (here we use "dh").
+    
     a. su, zu, fu, vu, shu, zhu, hu, thu, dhu
+    
     b. barf -> bar fu -> fubar
+    
     c. trash -> tra shu -> shutra
+    
     d. have -> ha vu -> vuha
+    
     e. math -> ma thu -> thuma
+    
 3. For final resonating consonants, use "e". These consonants are r, l, m, n.
+    
     a. re, le, me, ne
+    
     b. car -> ka re -> reka
+    
     c. bell -> be le -> lebe
+    
     d. dam -> da me -> meda
+    
     e. can -> ka ne -> neka
 
 I could have used "u" for everything, regardless of which consonant it is, but it resulted it way too many "u"s around everywhere. So I made it depend on which consonant it is so that there are more vowels in use. However, technically speaking, using "u" with everything would still work.
