@@ -249,48 +249,48 @@ This constitutes either making sentences shorter, or making it easy to turn a se
     2. Ki ma inggo resto
     3. Ki og resto (I go store)
 3. Add "ne" to end of sentence to indicate yes/no question
-    1. Do you want to go with me to the movie?
-    2. Ud ku towan ut og thuwi im ut adh vimu?
-    3. versus
-    4. You want go with me movie ne?
-    5. Ku towan og thuwi im vimu ne? (Ku towan og thuwi **ki** vimu ne?)
+    - Do you want to go with me to the movie?
+    - Ud ku towan ut og thuwi im ut adh vimu?
+    - versus
+    - You want go with me movie ne?
+    - Ku towan og thuwi im vimu ne? (Ku towan og thuwi **ki** vimu ne?)
 4. Can use subject personal pronoun in object case.
-    1. I hate him
-    2. I hate he
-    3. Ki tohei ihe
-    4. --
-    5. Go with me
-    6. Go with I
-    7. Og thuwi ki
+    - I hate him
+    - I hate he
+    - Ki tohei ihe
+    - --
+    - Go with me
+    - Go with I
+    - Og thuwi ki
 5. "Ya" can be added after a verb for past tense
-    1. old:
-    2. established -> es ta blishd -> tablishdes
-    3. new:
-    4. established -> es ta blish + -ed -> tablishes ya
-    5. This way, the past tense is not indicated by a small consonant in the word, but by a recognizable ending.
-    6. --
-    7. old:
-    8. Did you just kill it or has it been killed for a while?
-    9. Dodi ku tojas leki ti ro suha ti nebi dokil refo lewai?
-    10. or
-    11. You just kill it or it killed for while ne?
-    12. Ku tojas leki ti ro ti dokil refo lewai ne?
-    13. new:
-    14. You just kill it or it killed for while ne?
-    15. Ku tojas leki ti ro ti leki ya refo lewai ne?
-    16. This way, once you learn "leki" is kill, you can just add "ya" to make "leki ya" (killed), instead of having to take "killed" and translate that into "dokil" which doesn't obfuscate the root verb either.
+    - old:
+        - established -> es ta blishd -> tablishdes
+    - new:
+        - established -> es ta blish + -ed -> tablishes ya
+    - This way, the past tense is not indicated by a small consonant in the word, but by a recognizable ending.
+    - --
+    - old:
+        - Did you just kill it or has it been killed for a while?
+        - Dodi ku tojas leki ti ro suha ti nebi dokil refo lewai?
+        - or
+        - You just kill it or it killed for while ne?
+        - Ku tojas leki ti ro ti dokil refo lewai ne?
+    - new:
+        - You just kill it or it killed for while ne?
+        - Ku tojas leki ti ro ti leki ya refo lewai ne?
+        - This way, once you learn "leki" is kill, you can just add "ya" to make "leki ya" (killed), instead of having to take "killed" and translate that into "dokil" which doesn't obfuscate the root verb either.
 6. Future tense can be indicated by spoken time.
     1. If you want to say "I will go to the office tomorrow", you can say "I go office tomorrow", since future is indicated by a time in the future.
     2. However, if you want future tense but don't have a time, you can use "will": "I will do work".
-        1. old:
-        2. I will go to the office tomorrow.
-        3. Ki lewi og ut adh fisa maruto.
-        4. new:
-        5. Ki og fisa maruto.
+        -  old:
+            - I will go to the office tomorrow.
+            - Ki lewi og ut adh fisa maruto.
+        - new:
+            - Ki og fisa maruto.
 7. Plural -s is extracted
-    1. moment -> mo ment -> mentmo
-    2. moments -> mo ment s -> mentmos (as opposed to mentsmo)
-    3. This makes it easier to signify plural
+    - moment -> mo ment -> mentmo
+    - moments -> mo ment s -> mentmos (as opposed to mentsmo)
+    - This makes it easier to signify plural
     
 
 If you have any comments/questions/suggestions, please make an issue and thank you for reading!
