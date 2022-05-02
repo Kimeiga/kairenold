@@ -294,4 +294,5 @@ This constitutes either making sentences shorter, or making it easy to turn a se
     
 
 If you have any comments/questions/suggestions, please make an issue and thank you for reading!
+
 Fi ku vuha nia menkas/cankwests/gestcansas, supli komei cyui doan koqen ku refo dori!
