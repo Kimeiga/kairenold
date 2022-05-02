@@ -4,7 +4,7 @@ The secret language you already know.
 **TLDR**
 1. Multisyllable:
 
-  a. Put right half in front of left half, right half always 1 more syllable in odd number syllable words
+    a. Put right half in front of left half, right half always 1 more syllable in odd number syllable words
   
     i. explore -> eks plor -> ploreks
         
