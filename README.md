@@ -61,11 +61,9 @@ Words are created from English, and there is an easy rule for multisyllabic word
 
 Words are created by taking the right half of syllables and putting them in front of the left half of syllables. This is done with the transliteration of the word; a.k.a. the phonetic inscription of the word.
 
-respect -> ri spekt -> spektri
-
-commit -> ka mit -> mitka
-
-request -> re kwest -> kwestre
+1. respect -> ri spekt -> spektri
+2. commit -> ka mit -> mitka
+3. request -> re kwest -> kwestre
 
 ### Odd Number Syllables
 
@@ -73,21 +71,18 @@ Crucially, if the word has an odd number of syllables, the right half takes the 
 
 Suppose we did the opposite of this and said that the left half takes the extra syllable in the middle (2/1). 
 
-beautiful -> byu ti fal -> falbyuti
-
-government -> ga vern ment -> mentgavern
+1. beautiful -> byu ti fal -> falbyuti
+2. government -> ga vern ment -> mentgavern
 
 Because the root word stays together, the resulting transformed word sounds a lot like it used to. For this reason we have the right half take the extra syllable in the middle (1/2).
 
-beautiful -> byu ti fal -> tifalbyu
-
-government -> ga vern ment -> vernmentga
+1. beautiful -> byu ti fal -> tifalbyu
+2. government -> ga vern ment -> vernmentga
 
 For 4 syllable words, the split is just 2/2 as is usual for any even-number-of-syllables word.
 
-monopoly -> ma na po li -> polimana
-
-security -> se kyu ri ti -> ritisekyu
+1. monopoly -> ma na po li -> polimana
+2. security -> se kyu ri ti -> ritisekyu
 
 ## 1 Syllable Words
 
@@ -98,9 +93,8 @@ For monosyllabic words, we fall into two categories, those that end in a consona
 
 For those that end in a consonant, we add a vowel to the end to make it a **two** syllable word, and then switch the two syllables as is usual.
 
-gas -> ga su -> suga
-
-smith -> smi thu -> thusmi
+1. gas -> ga su -> suga
+2. smith -> smi thu -> thusmi
 
 The vowel depends on which consonant is the final consonant.
 
