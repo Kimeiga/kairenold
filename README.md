@@ -51,7 +51,7 @@ The secret language you already know.
     3. We (we -> iw) = Ke
     4. Eye (ai) = Ao
 
-
+---
 
 Words are created from English, and there is an easy rule for multisyllabic words, and an easy rule for monosyllabic words.
 
