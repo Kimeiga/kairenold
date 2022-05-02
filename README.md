@@ -155,19 +155,15 @@ Some words are unaffected by the algorithm because they are only vowels, or thei
 
 ## Example Sentences
 
-1
+1. 
+    A. How are you?
+    A. Auhe ra ku?
 
-A. How are you?
+    B. I'm good, how are you?
+    B. Mai dogu, auhe ra ku?
 
-A. Auhe ra ku?
-
-B. I'm good, how are you?
-
-B. Mai dogu, auhe ra ku?
-
-A. I'm fine, just a little sleepy.
-
-A. Mai nefai, tojas telli pisli.
+    A. I'm fine, just a little sleepy.
+    A. Mai nefai, tojas telli pisli.
 
 
 2
